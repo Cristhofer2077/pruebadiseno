@@ -139,3 +139,39 @@ footer {
     margin-top: 40px;
     font-size: 14px;
 }
+
+.nosotros {
+    padding: 60px 20px;
+    background-color: #f4f4f4;
+    color: #333;
+    text-align: left;
+}
+
+.nosotros .contenedor {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.nosotros h1, .nosotros h2 {
+    color: #ff6f61;
+}
+
+.nosotros p {
+    font-size: 18px;
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.nosotros ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.nosotros ul li {
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+
+.nosotros ul li strong {
+    color: #ff6f61;
+}
